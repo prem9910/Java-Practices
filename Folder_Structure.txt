@@ -1,0 +1,65 @@
+Java_Practice/
+│
+├── Basics/
+│   ├── HelloWorld.java
+│   ├── Variables/
+│   │   ├── PrimitiveTypes.java
+│   │   └── NonPrimitiveTypes.java
+│   ├── Operators/
+│   │   ├── ArithmeticOperators.java
+│   │   ├── ComparisonOperators.java
+│   │   └── LogicalOperators.java
+│   └── ControlFlow/
+│       ├── IfElseStatements.java
+│       ├── SwitchStatements.java
+│       └── Loops/
+│           ├── ForLoop.java
+│           ├── WhileLoop.java
+│           └── DoWhileLoop.java
+│
+├── Data_Structures/
+│   ├── Arrays/
+│   │   ├── SingleDimensionalArray.java
+│   │   ├── MultiDimensionalArray.java
+│   │   └── ArrayManipulation.java
+│   ├── Lists/
+│   │   ├── ArrayList.java
+│   │   └── LinkedList.java
+│   ├── Maps/
+│   │   ├── HashMap.java
+│   │   └── TreeMap.java
+│   └── Sets/
+│       ├── HashSet.java
+│       └── TreeSet.java
+│
+├── Object_Oriented_Programming/
+│   ├── Classes/
+│   │   ├── Car.java
+│   │   ├── Student.java
+│   │   └── Circle.java
+│   ├── Inheritance/
+│   │   ├── Vehicle.java
+│   │   └── Car.java
+│   ├── Polymorphism/
+│   │   ├── Animal.java
+│   │   └── Dog.java
+│   └── Encapsulation/
+│       ├── Person.java
+│       └── Employee.java
+│
+└── Advanced_Topics/
+    ├── Exceptions/
+    │   ├── TryCatchBlock.java
+    │   ├── ThrowKeyword.java
+    │   └── CustomExceptions.java
+    ├── Threads/
+    │   ├── CreatingThreads.java
+    │   ├── Synchronization.java
+    │   └── ThreadPooling.java
+    ├── Input_Output/
+    │   ├── FileReader.java
+    │   ├── FileWriter.java
+    │   └── BufferedReaderWriter.java
+    └── Generics/
+        ├── GenericClass.java
+        └── GenericMethod.java

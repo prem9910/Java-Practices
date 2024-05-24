@@ -1,4 +1,4 @@
-package Basics.Variables;
+package Basics.Variables.Practical_Questions;
 public class TemperatureConversion {
     public static void main(String[] args) {
         float celsius = 36.6f;

@@ -1,4 +1,4 @@
-package Basics.Variables;
+package Basics.Variables.Practical_Questions;
 
 public class UnicodeCharacters {
     public static void main(String[] args) {

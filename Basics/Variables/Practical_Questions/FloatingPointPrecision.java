@@ -1,4 +1,4 @@
-package Basics.Variables;
+package Basics.Variables.Practical_Questions;
 
 public class FloatingPointPrecision {
     public static void main(String[] args) {

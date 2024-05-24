@@ -1,4 +1,4 @@
-package Basics.Variables;
+package Basics.Variables.Practical_Questions;
 
 import java.util.Scanner;
 

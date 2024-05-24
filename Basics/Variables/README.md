@@ -32,7 +32,7 @@ Reference data types are objects in Java, which are created dynamically and can 
 
 ## Practical Questions on Primitive Data Types in JavaPractical Questions on Primitive Data Types in Java
 
-1. **`Basic Data Type Assignment`:** Write a Java program to declare variables of all primitive data types and initialize them with appropriate values. Print the values of these variables.
+1. **`Basic Data Type Assignment`:**(https://google.com) Write a Java program to declare variables of all primitive data types and initialize them with appropriate values. Print the values of these variables.
 
 ## Usage
 

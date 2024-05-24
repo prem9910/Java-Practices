@@ -30,6 +30,10 @@ Reference data types are objects in Java, which are created dynamically and can 
 1. **`String`:** Represents a sequence of characters, used for storing text.
 2. **Arrays:** Collections of similar type of elements, used for storing multiple values of the same data type.
 
+## Practical Questions on Primitive Data Types in JavaPractical Questions on Primitive Data Types in Java
+
+1. **`Basic Data Type Assignment`:** Write a Java program to declare variables of all primitive data types and initialize them with appropriate values. Print the values of these variables.
+
 ## Usage
 
 - Use primitive data types for simple values like integers, floating-point numbers, characters, and boolean values.

@@ -12,7 +12,8 @@ accessModifier returnType methodName(parameterList) {
     // method body
     // statements
     // return statement (if applicable)
-}```
+}
+```
 
 ### Components of a Method
 

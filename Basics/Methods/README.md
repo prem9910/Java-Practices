@@ -49,3 +49,20 @@ public int add(int a, int b) {
 -   Method Name: `add`
 -   Parameter List: `(int a, int b)`
 -   Method Body: Adds two integers and returns the sum.
+
+### Types of Methods
+
+1.  ``*Instance Methods:*`` Belong to an instance of a class. They require an object of the class to be created before they can be called.
+
+2.  ``*Static Methods:*`` Belong to the class rather than any object instance. They can be called without creating an instance of the class.
+
+3.  ``**Abstract Methods:**`` Declared without an implementation. They must be implemented by subclasses. They are used in abstract classes and interfaces.
+
+
+### Method Overloading
+
+Method overloading allows multiple methods in the same class to have the same name but different parameters (different type, number, or both). The compiler determines which method to call based on the method signature.
+
+### Summary
+
+Methods in Java are essential for defining the behavior of classes and objects. They consist of an access modifier, return type, name, parameters, and body. Java supports instance methods, static methods, and abstract methods, as well as method overloading to enhance functionality and code reuse.

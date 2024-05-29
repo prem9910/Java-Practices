@@ -6,15 +6,13 @@ Methods in Java are blocks of code that perform a specific task. They are used t
 
 Here is the general syntax of a method in Java:
 
-java
+```java
 
-Copy code
-
-`accessModifier returnType methodName(parameterList) {
+accessModifier returnType methodName(parameterList) {
     // method body
     // statements
     // return statement (if applicable)
-}`
+}```
 
 ### Components of a Method
 
@@ -38,14 +36,12 @@ Copy code
 
 Here is an example of a simple method in Java:
 
-java
-
-Copy code
-
-`public int add(int a, int b) {
+```java
+public int add(int a, int b) {
     int sum = a + b;
     return sum;
-}`
+}
+```
 
 -   Access Modifier: `public`
 -   Return Type: `int`

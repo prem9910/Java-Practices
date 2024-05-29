@@ -52,11 +52,11 @@ public int add(int a, int b) {
 
 ### Types of Methods
 
-1.  ``*Instance Methods:*`` Belong to an instance of a class. They require an object of the class to be created before they can be called.
+1.  **Instance Methods**: Belong to an instance of a class. They require an object of the class to be created before they can be called.
 
-2.  ``*Static Methods:*`` Belong to the class rather than any object instance. They can be called without creating an instance of the class.
+2.  **Static Methods**: Belong to the class rather than any object instance. They can be called without creating an instance of the class.
 
-3.  ``**Abstract Methods:**`` Declared without an implementation. They must be implemented by subclasses. They are used in abstract classes and interfaces.
+3.  **Abstract Methods**: Declared without an implementation. They must be implemented by subclasses. They are used in abstract classes and interfaces.
 
 
 ### Method Overloading

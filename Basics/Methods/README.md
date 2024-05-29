@@ -63,6 +63,10 @@ public int add(int a, int b) {
 
 Method overloading allows multiple methods in the same class to have the same name but different parameters (different type, number, or both). The compiler determines which method to call based on the method signature.
 
+### Method Scope
+
+
+
 ### Summary
 
 Methods in Java are essential for defining the behavior of classes and objects. They consist of an access modifier, return type, name, parameters, and body. Java supports instance methods, static methods, and abstract methods, as well as method overloading to enhance functionality and code reuse.

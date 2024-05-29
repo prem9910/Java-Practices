@@ -1,4 +1,3 @@
-package Basics.Variables.Practical_Questions;
 public class DataTypeLimits {
     public static void main(String[] args) {
         System.out.println("Max Byte: " + Byte.MAX_VALUE);

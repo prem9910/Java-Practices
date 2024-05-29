@@ -1,4 +1,3 @@
-package Basics.Variables.Practical_Questions;
 
 public class DefaultValues {
     byte byteVar;

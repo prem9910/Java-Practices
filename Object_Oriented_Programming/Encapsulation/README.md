@@ -6,11 +6,11 @@ This repository contains practical exercises and solutions for learning and unde
 
 ### 1. Encapsulation Basics
 **Task**: Create a `Person` class with private attributes `name`, `age`, and `gender`. Provide public getter and setter methods for these attributes. Create an object of the `Person` class and demonstrate encapsulation by setting and retrieving the attribute values.
-- **File**: [PersonEncapsulation.java](src/PersonEncapsulation.java)
+- **File**: [PersonEncapsulation.java](PersonEncapsulation.java)
 
 ### 2. Encapsulation with Constructor
 **Task**: Modify the `Person` class to include a constructor that initializes the attributes `name`, `age`, and `gender`. Create an object using the constructor and demonstrate encapsulation by retrieving the attribute values.
-- **File**: [PersonConstructorEncapsulation.java](src/PersonConstructorEncapsulation.java)
+- **File**: [PersonConstructorEncapsulation.java](PersonConstructorEncapsulation.java)
 
 ### 3. Encapsulation with Validation
 **Task**: Modify the `Person` class to include validation in the setter methods for the `age` attribute. Ensure that the age is a positive value. Create an object and demonstrate encapsulation by setting and retrieving the attribute values.

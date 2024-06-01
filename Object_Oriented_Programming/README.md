@@ -1,4 +1,3 @@
-```markdown
 # Introduction to Object-Oriented Programming (OOP) in Java
 
 Object-Oriented Programming (OOP) is a programming paradigm centered around the concept of objects. Java, as an object-oriented language, leverages OOP principles to create modular, reusable, and efficient code. Here are the four key concepts of OOP in Java:

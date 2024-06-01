@@ -6,23 +6,23 @@ This repository contains practical exercises and solutions for learning and unde
 
 ### 1. Define a Simple Class and Create an Object
 **Task**: Create a class `Car` with attributes `model`, `year`, and `color`. Define a method to display these details. Create an object of the `Car` class and call the method to display the car details.
-- **File**: [BasicCarClass.java](src/BasicCarClass.java)
+- **File**: [BasicCarClass.java](BasicCarClass.java)
 
 ### 2. Constructor Usage
 **Task**: Modify the `Car` class to include a constructor that initializes the `model`, `year`, and `color` attributes. Create an object using the constructor and display the car details.
-- **File**: [CarConstructor.java](src/CarConstructor.java)
+- **File**: [CarConstructor.java](CarConstructor.java)
 
 ### 3. Getters and Setters
 **Task**: Modify the `Car` class to include private attributes and provide public getter and setter methods for these attributes. Create an object, set its attributes, and display the details.
-- **File**: [CarGettersSetters.java](src/CarGettersSetters.java)
+- **File**: [CarGettersSetters.java](CarGettersSetters.java)
 
 ### 4. Class with Multiple Methods
 **Task**: Create a class `Rectangle` with attributes `length` and `width`. Define methods to calculate and return the area and perimeter of the rectangle. Create an object and display the area and perimeter.
-- **File**: [RectangleMethods.java](src/RectangleMethods.java)
+- **File**: [RectangleMethods.java](RectangleMethods.java)
 
 ### 5. Static Members
 **Task**: Create a class `Circle` with a static attribute `PI` and a non-static attribute `radius`. Define a method to calculate the area of the circle. Create objects and display the areas.
-- **File**: [CircleStaticMembers.java](src/CircleStaticMembers.java)
+- **File**: [CircleStaticMembers.java](CircleStaticMembers.java)
 
 ## Additional Resources
 

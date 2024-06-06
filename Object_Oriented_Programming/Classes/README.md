@@ -24,6 +24,12 @@ This repository contains practical exercises and solutions for learning and unde
 **Task**: Create a class `Circle` with a static attribute `PI` and a non-static attribute `radius`. Define a method to calculate the area of the circle. Create objects and display the areas.
 - **File**: [CircleStaticMembers.java](CircleStaticMembers.java)
 
+
+### 6. Wrapper Classes
+**Task**: Wrapper classes provide a way to use primitive data types as objects. They are automatically boxed and unboxed. Create an object of the wrapper class and use them.
+- **File**: [WrapperClasses.java](WrapperClasses.java)
+
+
 ## Additional Resources
 
 - [Java Documentation](https://docs.oracle.com/javase/8/docs/)

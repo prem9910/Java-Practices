@@ -8,12 +8,14 @@ Primitive data types are the most basic data types in Java. They are predefined 
 
 ### Numeric Data Types
 
-1. **`byte`:** 1 byte, -128 to 127
-2. **`short`:** 2 bytes, -32,768 to 32,767
-3. **`int`:** 4 bytes, -2,147,483,648 to 2,147,483,647
-4. **`long`:** 8 bytes, -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-5. **`float`:** 4 bytes, 6-7 significant decimal digits
-6. **`double`:** 8 bytes, 15 significant decimal digits
+| Data Type | Size (bytes) | Range | Description |
+|-----------|--------------|-------|-------------|
+| `byte` | 1 | -128 to 127 | 1-byte signed integer |
+| `short` | 2 | -32,768 to 32,767 | 2-byte signed integer |
+| `int` | 4 | -2,147,483,648 to 2,147,483,647 | 4-byte signed integer |
+| `long` | 8 | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | 8-byte signed integer |
+| `float` | 4 | variable | 4-byte single-precision floating-point number |
+| `double` | 8 | variable | 8-byte double-precision floating-point number |
 
 ### Boolean Data Type
 

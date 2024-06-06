@@ -1,5 +1,4 @@
 package Variables;
-
 public class NonPrimitiveTypes {
     public static void main(String[] args) {
         String name = "Mike";

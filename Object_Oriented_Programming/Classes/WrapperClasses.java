@@ -4,6 +4,8 @@ public class WrapperClasses {
         Long longObj = 20L;
         Float floatObj = 30.5f;
         Double doubleObj = 40.5;
+
+        
         Boolean booleanObj = true;
         Character charObj = 'A';
         System.out.println("intObj: " + intObj);

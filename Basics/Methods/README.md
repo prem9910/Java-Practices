@@ -63,7 +63,7 @@ public int add(int a, int b) {
 
 Method overloading allows multiple methods in the same class to have the same name but different parameters (different type, number, or both). The compiler determines which method to call based on the method signature.
 
-### Method Scope
+### Method Scope : 
 
 
 

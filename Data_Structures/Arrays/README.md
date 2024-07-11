@@ -8,6 +8,3 @@ Arrays are declared using the following syntax:
 DataType[] arrayName = new DataType[size];
 ```
 
-where `DataType` is the data type of the elements in the array, and `size` is the number of elements in the array.
-
-
